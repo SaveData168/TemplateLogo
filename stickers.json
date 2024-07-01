@@ -7265,15 +7265,112 @@
 	},
 
 	{
-      "topic": "Cafe",
-      "list": [
-        {
-          "url": "Photo_1718551053364.png",
-          "iap": false
-        }
-      ],
-      "isNew": true
+  "topic": "Cafe",
+  "list": [
+    {
+      "url": "cafe_logo_002.png",
+      "iap": false
     },
+    {
+      "url": "cafe_logo_003.png",
+      "iap": false
+    },
+    {
+      "url": "cafe_logo_004.png",
+      "iap": false
+    },
+    {
+      "url": "cafe_logo_005.png",
+      "iap": false
+    },
+    {
+      "url": "cafe_logo_006.png",
+      "iap": false
+    },
+    {
+      "url": "cafe_logo_007.png",
+      "iap": false
+    },
+    {
+      "url": "cafe_logo_008.png",
+      "iap": false
+    },
+    {
+      "url": "cafe_logo_009.png",
+      "iap": false
+    },
+    {
+      "url": "cafe_logo_010.png",
+      "iap": false
+    },
+    {
+      "url": "cafe_logo_011.png",
+      "iap": false
+    },
+    {
+      "url": "cafe_logo_012.png",
+      "iap": false
+    },
+    {
+      "url": "cafe_logo_013.png",
+      "iap": false
+    },
+    {
+      "url": "cafe_logo_014.png",
+      "iap": false
+    },
+    {
+      "url": "cafe_logo_015.png",
+      "iap": false
+    },
+    {
+      "url": "cafe_logo_016.png",
+      "iap": false
+    },
+    {
+      "url": "cafe_logo_017.png",
+      "iap": false
+    },
+    {
+      "url": "cafe_logo_018.png",
+      "iap": false
+    },
+    {
+      "url": "cafe_logo_019.png",
+      "iap": false
+    },
+    {
+      "url": "cafe_logo_020.png",
+      "iap": false
+    },
+    {
+      "url": "cafe_logo_021.png",
+      "iap": false
+    },
+    {
+      "url": "cafe_logo_022.png",
+      "iap": false
+    },
+    {
+      "url": "cafe_logo_023.png",
+      "iap": false
+    },
+    {
+      "url": "cafe_logo_024.png",
+      "iap": false
+    },
+    {
+      "url": "cafe_logo_025.png",
+      "iap": false
+    },
+	{
+      "url": "cafe_logo_026.png",
+      "iap": false
+    }
+  ],
+  "isNew": true
+},
+
     {
       "topic": "alphabet and numbers",
       "list": [
